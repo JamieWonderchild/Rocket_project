@@ -1,0 +1,1 @@
+Hi.. please please please dont forget that for scenario 1, Q(4,4) is 1000 and for scenario 2, Q(4,4) needs to be 10000
